@@ -1,0 +1,9 @@
+inherit kf5
+
+NAME="kde-cli-tools"
+VERSION=5.8.5
+RELEASE=1
+CATEGORY="KDE"
+SUMMARY="KDE command line tools"
+DESCRIPTION="Provides several KDE and Plasma specific command line tools to
+allow better interaction with the system."
